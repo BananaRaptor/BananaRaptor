@@ -11,10 +11,12 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 ![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LINUX-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 <br>
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
 ### Language 
 ![](https://img.shields.io/badge/PHP-Language-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C_Sharp-Language-informational?style=flat&logo=C-Sharp&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VB.NET-Language-informational?style=flat&logo=VB.NET&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
@@ -24,7 +26,7 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.NET-Framework-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laravel-Framework-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
+
 ### Technology
 ![](https://img.shields.io/badge/GIT-Technology-informational?style=flat&logo=GIT&logoColor=white&color=2bbc8a)
 
