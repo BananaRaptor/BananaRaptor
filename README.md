@@ -21,9 +21,9 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 ![](https://img.shields.io/badge/C-Language-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 <br>
 ### Framework
-![](https://img.shields.io/badge/Node.js-Technology-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/.NET-Technology-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Laravel-Technology-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.NET-Framework-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laravel-Framework-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
 ### Technology
 ![](https://img.shields.io/badge/GIT-Technology-informational?style=flat&logo=GIT&logoColor=white&color=2bbc8a)
 
@@ -49,6 +49,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 **BananaRaptor/BananaRaptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-### ⚡ Fun fact 
+### PS
 If you'd like to share any good cooking recipe please contact me
 
