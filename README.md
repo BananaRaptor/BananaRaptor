@@ -24,11 +24,11 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/.NET-Framework-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laravel-Framework-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
 ### Technology
 ![](https://img.shields.io/badge/GIT-Technology-informational?style=flat&logo=GIT&logoColor=white&color=2bbc8a)
 
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
 
 ## Current Project 💭
 Currently working in partnership with the CTTEI to provide MFCA calculation and insight for local indusrty. Done in Nextjs, Feather and AWS for the hosting
