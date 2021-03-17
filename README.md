@@ -1,8 +1,8 @@
 ### Bonjour/Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaRaptor&theme=slateorange&show_icons=true)](https://github.com/BananaRaptor/github-readme-stats)
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=BananaRaptor&theme=slateorange&show_icons=true)](https://github.com/BananaRaptor/github-readme-stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
 
 
 ### Technology 🔧
