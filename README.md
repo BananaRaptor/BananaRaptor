@@ -8,7 +8,7 @@
 <br>
 ![](https://img.shields.io/badge/PHP-Language-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C-sharp-Languageinformational?style=flat&logo=C-Sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C_Sharp-Language-informational?style=flat&logo=C-Sharp&logoColor=white&color=2bbc8a)
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
 
