@@ -34,7 +34,7 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 
 
 ## Current Project 💭
-Currently working in partnership with the CTTEI to provide MFCA calculation and insight for local indusrty. Done in Nextjs, Feather and AWS for the hosting
+Currently working in partnership with the CTTEI to provide MFCA calculation and insight for local industry. Done in Nextjs, Feather and AWS for the hosting
 
 ## How to reach me ✉️
 You can find me on [Twitter][1], or on [Linkedin][2].
