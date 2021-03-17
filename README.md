@@ -7,6 +7,7 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 
 ## Technology 🔧
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp&theme=slateorange&langs_count=8)](https://github.com/anuraghazra/github-readme-stats">
+
 ### Operating System 
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
