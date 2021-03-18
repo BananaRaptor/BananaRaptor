@@ -6,7 +6,7 @@
 I'm a recent Cégep Graduate in Computer Science about to begin my College degree in Software Engineering at l'ÉTS in Montréal. I'm always interested to learn about new technology and try my hand at new technological challenges. Will work as an intern at BBA Consultant this summer.
 
 ## Technology 🔧
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=EnvironnementReseauFinalTp,GameJam&theme=slateorange&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=GameJam&theme=slateorange&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
 
 ### Operating System 
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
