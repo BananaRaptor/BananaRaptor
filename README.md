@@ -31,9 +31,6 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 ### Technology
 ![](https://img.shields.io/badge/GIT-Technology-informational?style=flat&logo=GIT&logoColor=white&color=2bbc8a)
 
-
-<br>
-<br>
 ## Current Project 💭
 Currently working in partnership with the CTTEI to provide MFCA calculation and insight for local industry. Done in Nextjs, Feather and AWS for the hosting
 
