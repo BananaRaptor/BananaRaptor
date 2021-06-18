@@ -3,7 +3,7 @@
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=BananaRaptor&theme=slateorange&show_icons=true)](https://github.com/BananaRaptor/github-readme-stats">
 
 ## About me 😃 
-I'm a recent Cégep Graduate in Computer Science about to begin my College degree in Software Engineering at l'ÉTS in Montréal. I'm always interested to learn about new technology and try my hand at new technological challenges. Will work as an intern at BBA Consultant this summer.
+I'm a recent Cégep Graduate in Computer Science about to begin my College degree in GPA at l'ÉTS in Montréal. I'm always interested to learn about new technology and try my hand at new technological challenges. Working as an intern at BBA Consultant this summer.
 
 ## Technology 🔧
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaRaptor&exclude_repo=GameJam,nextjs_test&theme=slateorange&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
@@ -33,7 +33,7 @@ I'm a recent Cégep Graduate in Computer Science about to begin my College degre
 <br><br>
 
 ## Current Project 💭
-Currently working in partnership with the CTTEI to provide MFCA calculation and insight for local industry. Done in Nextjs, Feather and AWS for the hosting
+Working at BBA consultant
 
 ## How to reach me ✉️
 You can find me on [Twitter][1], or on [Linkedin][2].
